@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+header{
+        background-color: #FF4040	  ;
+        padding:40px 55px 40px 55px ;
+}
+
+h1{
+    background-color:#FF4040	 ;
+  color: #33CCCC;
+}
+h2{
+    background-color: #FF4040	;
+     color: #33CCCC;
+}
+footer{
+    background-color: #FF4040	;
+     color: #33CCCC;
+     text-align: center;
+     font-size: 20px;
+}
